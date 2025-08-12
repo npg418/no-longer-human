@@ -29,9 +29,10 @@
             programs.ruff.enable = true;
           };
           devShells.default = pkgs.mkShellNoCC {
-            packages = [
+            packages = with pkgs; [
               self.formatter.${system}
-              pkgs.python313
+              python313
+              uv
             ];
           };
         };
