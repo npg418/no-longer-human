@@ -31,7 +31,6 @@
           devShells.default = pkgs.mkShellNoCC {
             packages = with pkgs; [
               self.formatter.${system}
-              python313
               uv
             ];
           };
