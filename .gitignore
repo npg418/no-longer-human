@@ -1,4 +1,6 @@
 # direnv
 .direnv
 
+.env
+
 dazai_corpus.txt
