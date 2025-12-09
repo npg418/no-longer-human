@@ -97,13 +97,12 @@ dazai_urls: list[str] = [
     "https://www.aozora.gr.jp/cards/000035/files/301_ruby_5915.zip",  # 人間失格
     "https://www.aozora.gr.jp/cards/000035/files/1567_ruby_4948.zip",  # 走れメロス
     "https://www.aozora.gr.jp/cards/000035/files/1565_ruby_8220.zip",  # 斜陽
-    "https://www.aozora.gr.jp/cards/000035/files/2260_ruby_5725.zip",  # ヴィヨンの妻
-    "https://www.aozora.gr.jp/cards/000035/files/275_ruby_1534.zip",  # 女生徒
-    "https://www.aozora.gr.jp/cards/000035/files/237_ruby_1988.zip",  # 駈込み訴え
-    "https://www.aozora.gr.jp/cards/000035/files/286_ruby_1619.zip",  # 富嶽百景
-    "https://www.aozora.gr.jp/cards/000035/files/2253_ruby_1981.zip",  # 畜犬談
-    "https://www.aozora.gr.jp/cards/000035/files/1577_ruby_5724.zip",  # お伽草紙
-    "https://www.aozora.gr.jp/cards/000035/files/285_ruby_1615.zip",  # 津軽
+    "https://www.aozora.gr.jp/cards/000035/files/2253_ruby_1031.zip",  # ヴィヨンの妻
+    "https://www.aozora.gr.jp/cards/000035/files/275_ruby_1532.zip",  # 女生徒
+    "https://www.aozora.gr.jp/cards/000035/files/277_ruby_33097.zip",  # 駈込み訴え
+    "https://www.aozora.gr.jp/cards/000035/files/270_ruby_1164.zip",  # 富嶽百景
+    "https://www.aozora.gr.jp/cards/000035/files/246_ruby_1636.zip",  # 畜犬談
+    "https://www.aozora.gr.jp/cards/000035/files/2282_ruby_1996.zip",  # 津軽
 ]
 
 OUTPUT_FILE: str = "dazai_corpus.txt"
